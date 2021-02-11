@@ -1,13 +1,13 @@
 import Layout from "../components/Layout";
 
-const Blog = () => {
+const CreateBlog = () => {
   return (
-    <Layout title="Blog">
+    <Layout title="Create Blog">
       <div className="min-h-screen px-2 py-0 flex justify-center items-center">
-        <h1>Blog Page</h1>
+        <h1>Create Blog Page</h1>
       </div>
     </Layout>
   );
 };
 
-export default Blog;
+export default CreateBlog;
